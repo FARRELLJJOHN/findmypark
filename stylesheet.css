@@ -1,0 +1,22 @@
+body {
+	margin: 0;
+}
+
+#back {
+	background-image: url("media/ocean_kayak.JPG");
+	background-size: 100vw 100vh;
+	background-repeat: no-repeat;
+	width: 100vw;
+	height: 100vh;
+	margin: 0;
+}
+
+#splash {
+	height: 25vh;
+	width: 50vw;
+	margin: 0;
+	top: 30vh;
+	left: 25vw;
+	position: relative;
+	color: white;
+}
